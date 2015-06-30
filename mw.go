@@ -1,1 +1,5 @@
 package golangExample
+
+func ts() {
+
+}
